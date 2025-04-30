@@ -1,0 +1,614 @@
+2025-04-27 11:26:45 - ERROR - [31m[websocket send]   no close frame received or sent   --   {'label': 'Bitcoin', 'news': {'id': '30e13416c706f0f0bcf055d', 'date': '2025-04-26_23-11', 'title': '某巨鲸通过两个钱包再次做空比特币，总头寸规模达3070万美元', 'content': 'PANews 4月25日消息，据Lookonchain监测，在比特币价格上涨之后，某巨鲸通过两个钱包再次做空比特币，建仓价格分别为94,893美元和94,830.5美元。其做空总头寸规模达3070万美元。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/xqb9q6lu.html'}, 'next': ''} [0m
+2025-04-27 11:26:48 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:26:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:26:58 - ERROR - [31m[websocket send]   no close frame received or sent   --   {'label': 'NFT', 'news': {'id': '7a2a2b5edd0622fe6d8de73', 'date': '2025-04-26_00-03', 'title': 'Sign发布空投查询页面单个NFT可获47500枚SIGN令牌', 'content': 'Odaily星球日报讯\xa0Sign 发布其空投查询页面，用户可查询其 X 账号与钱包地址获得的空投数量。据市场消息，单个 Sign NFT 获得空投 47500 枚 SIGN。', 'website': 'Odaily', 'src': 'https://sosovalue.com/zh/research/1915816360995983360'}, 'next': ''} [0m
+2025-04-27 11:27:00 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:03 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:09 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:12 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:27:15 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:27:18 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:21 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:24 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:27 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:38 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:27:41 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:27:44 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:47 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:27:50 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:27:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:27:55 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:27:58 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:28:00 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:03 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:05 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:28:08 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:11 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:13 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:16 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:28:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:28:22 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:28:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:28 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:31 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:28:34 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:37 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:40 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:43 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:28:46 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:49 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:52 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:55 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:28:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:00 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:29:03 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:09 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:12 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:29:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:18 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:29:21 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:23 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:26 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:41 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:44 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:56 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:29:59 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:02 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:07 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:10 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:12 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:18 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:30:20 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:23 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:26 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:41 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:44 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:47 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:30:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:56 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:30:59 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:01 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:31:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:07 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:31:10 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:13 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:31:16 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:19 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:22 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:28 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:31 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:34 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:37 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:31:39 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:42 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:45 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:48 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:51 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:54 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:31:57 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:00 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:03 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:32:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:09 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:12 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:18 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:21 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:23 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:26 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:41 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:32:44 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:32:47 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:32:50 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:32:53 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:32:55 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:32:58 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:01 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:04 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:07 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:10 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:13 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:16 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:19 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:22 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:24 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:27 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:30 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:33 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:36 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:39 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:42 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:45 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:48 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:51 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:54 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:57 - ERROR - [31m[websocket connect]   :8765 isn't a valid URI: scheme isn't ws or wss [0m
+2025-04-27 11:33:59 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:02 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:34:22 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:28 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:31 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:34 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:37 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:40 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:43 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:45 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:48 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:50 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:34:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:55 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:34:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:09 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:12 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:17 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:20 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:22 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:25 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:35:27 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:30 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:33 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:36 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:35:39 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:35:42 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:45 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:56 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:35:59 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:02 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:05 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:08 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:11 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:14 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:17 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:20 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:36:23 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:28 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:31 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:34 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:37 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:40 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:43 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:36:46 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:49 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:52 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:54 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:36:57 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:00 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:03 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:05 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:08 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:11 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:14 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:17 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:20 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:23 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:26 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:41 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:44 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:47 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:37:49 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:52 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:55 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:37:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:07 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:10 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:13 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:16 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:38:22 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:27 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:38:30 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:38:33 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:38:36 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:38:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:41 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:44 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:56 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:38:59 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:01 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:39:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:06 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:39:09 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:11 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:14 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:17 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:39:22 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:28 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:31 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:34 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:37 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:40 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:43 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:46 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:49 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:52 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:54 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:39:57 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:00 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:03 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:08 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:11 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:13 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:40:16 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:40:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:40:22 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:40:24 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:40:27 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:41 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:44 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:40:56 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:40:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:07 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:41:10 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:13 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:16 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:19 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:22 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:28 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:41:31 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:33 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:36 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:39 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:42 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:45 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:47 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:41:50 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:41:52 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:41:55 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:41:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:09 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:42:12 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:15 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:42:18 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:42:21 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:42:24 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:27 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:30 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:33 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:36 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:39 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:42 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:44 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:56 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:42:59 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:04 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:07 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:10 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:12 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:17 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:20 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:22 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:25 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:28 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:31 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:34 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:36 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:39 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:42 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:43:45 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:48 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:51 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:54 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:43:57 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:00 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:44:03 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:09 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:12 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:18 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:44:21 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:23 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:26 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:44:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:41 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:44:43 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:46 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:49 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:52 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:44:55 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:44:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:07 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:45:10 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:12 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:45:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:18 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:21 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:24 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:27 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:30 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:33 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:45:36 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:39 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:42 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:44 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:45:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:50 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:45:52 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:55 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:45:57 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:46:00 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:03 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:06 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:46:09 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:11 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:14 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:16 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:46:19 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:22 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:28 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:31 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:34 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:37 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:46:40 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:43 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:46 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:48 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:51 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:54 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:57 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:46:59 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:02 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:07 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:47:10 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:47:13 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:47:16 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:19 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:22 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:47:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:27 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:30 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:33 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:36 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:39 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:47:42 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:45 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:48 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:51 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:54 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:56 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:47:59 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:48:02 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:48:05 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:48:08 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:48:11 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:48:14 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:49:36 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:49:39 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:49:42 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:49:44 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:49:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:49:49 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:49:52 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:49:54 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:49:56 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:49:59 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:50:02 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:06 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:12 - ERROR - [31m[websocket send]   no close frame received or sent   --   {'label': 'other', 'news': {'id': '6e8bb7799d35cc2d062dd91', 'date': '2025-04-26_01-38', 'title': 'Sign空投查询页面现已上线', 'content': 'BlockBeats 消息，4 月 26 日，Sign 空投查询页面现已上线，将于 4 月 28 日 18:00 开放申领，用户现可查询其 X 账号与钱包地址获得的空投数量。', 'website': 'theblockbeats', 'src': '/inclusionid/?target=https%3A%2F%2Fx.com%2Fethsign%2Fstatus%2F1915803862063260073'}, 'next': ''} [0m
+2025-04-27 11:50:14 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:17 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:20 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:23 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:26 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:29 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:32 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:35 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:38 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:41 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:43 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:46 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:49 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:52 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:55 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:50:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:07 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:10 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:51:12 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:15 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:18 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:25 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:27 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:51:47 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:50 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:53 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:51:56 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:51:58 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:52:01 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:52:04 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:52:07 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:52:12 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:14 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:17 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:22 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:25 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:28 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:31 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:34 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:37 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:40 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:42 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:45 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:47 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:50 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:53 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:56 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:52:59 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:02 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:05 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:08 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:10 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:13 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:16 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:22 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:25 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:28 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:31 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:33 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:36 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:38 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:41 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:45 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:48 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:51 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:54 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:53:57 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:00 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:02 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:05 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:07 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:10 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:13 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:16 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:19 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:22 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:25 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:28 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:31 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:34 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:37 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:40 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:43 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:46 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:49 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:52 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:55 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:54:58 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:00 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:03 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:05 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:08 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:11 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:14 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:17 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:20 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:23 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:26 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:29 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:32 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:35 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:38 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:41 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:44 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:46 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:49 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:51 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:54 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:55:57 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:00 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:03 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:06 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:08 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:11 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:14 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:17 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:20 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:23 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:26 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:29 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:32 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:35 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:38 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:41 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:44 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:47 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:50 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:53 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:56 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:56:59 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:57:02 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:57:05 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:57:08 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:57:10 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:57:13 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:57:16 - ERROR - [31m[websocket connect]   did not receive a valid HTTP response [0m
+2025-04-27 11:57:58 - ERROR - [31m[websocket send]   no close frame received or sent   --   {'label': 'other', 'news': {'id': 'b525df2ab754622a15dbf6f', 'date': '2025-04-26_22-02', 'title': 'Coinbase国际站将上线ZORA永续合约交易', 'content': 'PANews 4月25日消息，Coinbase国际站在X平台发文宣布，Coinbase国际站和Coinbase Advanced将新增对ZORA永续合约的支持，ZORA-PERP市场预计将于北京时间5月1日17:30或之后开放。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/792pwvk1.html'}, 'next': ''} [0m
+2025-04-27 11:58:00 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:58:02 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:58:05 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:58:07 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:58:10 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:58:13 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:58:16 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 11:58:19 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 12:00:15 - ERROR - [31m[websocket send]   no close frame received or sent   --   {'label': 'AI', 'news': {'id': 'fa0ddb2acc3ccef1779f418', 'date': '2025-04-26_22-18', 'title': 'Bitget报告：预测区块链行业将在2030年前催生100万个就业机会', 'content': 'PANews 4月25日消息，Bitget近日发布「区块链与 AI：人才吸引与增长潜力」研究报告指出，尽管区块链行业目前在全球就业市场中仍处于早期阶段，全球相关职位约为 15,000 至 20,000 个，但随着行业应用加速落地、监管体系逐步完善，以及机构参与度不断提升，预计到 2030 年，该行业有望在全球范围内创造多达 100 万个新增岗位。\n目前，全球区块链相关职位主要分布在北美（40%）、亚太（35%）和欧洲（20%）。若区块链行业持续沿着 AI 的增长轨迹发展，其专业岗位的薪资水平也有望显著提升。目前，智能合约审计师等岗位的年薪区间为 11.5 万至 19.1 万美元，未来有望突破 25 万美元。\nBitget 的团队规模已从 2022 年的 200 人增长至近 1900 人，目前在全球范围内开放 129 个招聘岗位，重点布局亚太和中东等区块链发展活跃地区。值得一提的是，近期投递简历的候选人中，有 33% 来自传统银行业，反映出区块链行业在薪酬竞争力与创新氛围方面的吸引力正日益凸显。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/0xsrz687.html'}, 'next': ''} [0m
+2025-04-27 12:00:38 - ERROR - [31m[websocket send]   no close frame received or sent   --   {'label': 'Bitcoin', 'news': {'id': '428d77fd4f2f3bbc81b0725', 'date': '2025-04-26_22-34', 'title': 'Solv Protocol与Fragmetric和Zeus Network联合推出Solana原生收益比特币产品FragBTC', 'content': 'PANews 4月25日消息，据官方公告，Solv Protocol宣布与Fragmetric和Zeus Network联合推出Solana首款原生收益比特币产品FragBTC，这是一种流动性再质押代币 (LRT)，旨在增强Solana的经济潜力和安全性，同时为比特币持有者提供一种赚取稳定的BTC计价收益的新方式。FragBTC利用Solv Protocol开发的比特币收益策略SolvBTC.JUP来产生其底层收益。SolvBTC.JUP通过参与Jupiter交易所的Jupiter JLP池来赚取以BTC计价的收益。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/qq0jc377.html'}, 'next': ''} [0m
+2025-04-27 12:00:40 - ERROR - [31m[websocket connect]   no close frame received or sent [0m
+2025-04-27 16:29:06 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-27 16:29:06 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m

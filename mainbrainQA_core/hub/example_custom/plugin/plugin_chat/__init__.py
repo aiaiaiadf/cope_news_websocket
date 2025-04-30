@@ -1,0 +1,1 @@
+from custom.plugin.plugin_chat import plugin_chat

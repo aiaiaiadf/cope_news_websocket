@@ -1,0 +1,3 @@
+from custom.plugin.plugin_novel.plugin_summary_novel import summary_novel
+from custom.plugin.plugin_novel.plugin_cope_novel import cope_novel
+from custom.plugin.plugin_novel.plugin_main import AnalysisQuery,routing

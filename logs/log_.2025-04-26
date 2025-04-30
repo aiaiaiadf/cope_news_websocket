@@ -1,0 +1,105 @@
+2025-04-26 00:03:27 - ERROR - [31m[websocket send]   sent 1011 (internal error) keepalive ping timeout; no close frame received   --   {'label': 'other', 'news': {'id': '676cbb90c5f3b44ecc86709', 'date': '2025-04-26_00-02', 'title': '币安公布上币及下架标准', 'content': 'PANews 4月25日消息，据官方公告，币安详细说明了其上币和下架标准，包括Binance Alpha、币安合约和币安现货等产品的上币要求，以及项目团队需满足的条件。币安还强调了对市场表现、团队背景、合规性和产品安全性的持续监控，不符合标准的项目可能会被下架。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/2fod0s28.html'}, 'next': ''} [0m
+2025-04-26 00:03:27 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-26 00:04:28 - ERROR - keepalive ping failed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 777, in keepalive
+    with self.send_context():
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 1012, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-04-26 00:08:26 - ERROR - [31m[websocket send]   sent 1011 (internal error) keepalive ping timeout; no close frame received   --   {'label': 'other', 'news': {'id': '676cbb90c5f3b44ecc86709', 'date': '2025-04-26_00-02', 'title': '币安公布上币及下架标准', 'content': 'PANews 4月25日消息，据官方公告，币安详细说明了其上币和下架标准，包括Binance Alpha、币安合约和币安现货等产品的上币要求，以及项目团队需满足的条件。币安还强调了对市场表现、团队背景、合规性和产品安全性的持续监控，不符合标准的项目可能会被下架。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/2fod0s28.html'}, 'next': ''} [0m
+2025-04-26 00:08:27 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-26 00:09:28 - ERROR - keepalive ping failed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 777, in keepalive
+    with self.send_context():
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 1012, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-04-26 00:13:27 - ERROR - [31m[websocket send]   sent 1011 (internal error) keepalive ping timeout; no close frame received   --   {'label': 'other', 'news': {'id': '676cbb90c5f3b44ecc86709', 'date': '2025-04-26_00-02', 'title': '币安公布上币及下架标准', 'content': 'PANews 4月25日消息，据官方公告，币安详细说明了其上币和下架标准，包括Binance Alpha、币安合约和币安现货等产品的上币要求，以及项目团队需满足的条件。币安还强调了对市场表现、团队背景、合规性和产品安全性的持续监控，不符合标准的项目可能会被下架。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/2fod0s28.html'}, 'next': ''} [0m
+2025-04-26 00:13:27 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-26 00:14:29 - ERROR - keepalive ping failed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 777, in keepalive
+    with self.send_context():
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 1012, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-04-26 00:18:27 - ERROR - [31m[websocket send]   sent 1011 (internal error) keepalive ping timeout; no close frame received   --   {'label': 'other', 'news': {'id': '676cbb90c5f3b44ecc86709', 'date': '2025-04-26_00-02', 'title': '币安公布上币及下架标准', 'content': 'PANews 4月25日消息，据官方公告，币安详细说明了其上币和下架标准，包括Binance Alpha、币安合约和币安现货等产品的上币要求，以及项目团队需满足的条件。币安还强调了对市场表现、团队背景、合规性和产品安全性的持续监控，不符合标准的项目可能会被下架。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/2fod0s28.html'}, 'next': ''} [0m
+2025-04-26 00:18:27 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-26 00:19:29 - ERROR - keepalive ping failed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 777, in keepalive
+    with self.send_context():
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 1012, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-04-26 00:23:27 - ERROR - [31m[websocket send]   sent 1011 (internal error) keepalive ping timeout; no close frame received   --   {'label': 'other', 'news': {'id': '676cbb90c5f3b44ecc86709', 'date': '2025-04-26_00-02', 'title': '币安公布上币及下架标准', 'content': 'PANews 4月25日消息，据官方公告，币安详细说明了其上币和下架标准，包括Binance Alpha、币安合约和币安现货等产品的上币要求，以及项目团队需满足的条件。币安还强调了对市场表现、团队背景、合规性和产品安全性的持续监控，不符合标准的项目可能会被下架。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/2fod0s28.html'}, 'next': ''} [0m
+2025-04-26 00:23:27 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-26 00:24:29 - ERROR - keepalive ping failed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 777, in keepalive
+    with self.send_context():
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 1012, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-04-26 00:28:27 - ERROR - [31m[websocket send]   sent 1011 (internal error) keepalive ping timeout; no close frame received   --   {'label': 'other', 'news': {'id': '676cbb90c5f3b44ecc86709', 'date': '2025-04-26_00-02', 'title': '币安公布上币及下架标准', 'content': 'PANews 4月25日消息，据官方公告，币安详细说明了其上币和下架标准，包括Binance Alpha、币安合约和币安现货等产品的上币要求，以及项目团队需满足的条件。币安还强调了对市场表现、团队背景、合规性和产品安全性的持续监控，不符合标准的项目可能会被下架。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/2fod0s28.html'}, 'next': ''} [0m
+2025-04-26 00:28:27 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-26 00:29:29 - ERROR - keepalive ping failed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 777, in keepalive
+    with self.send_context():
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 1012, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-04-26 00:33:27 - ERROR - [31m[websocket send]   sent 1011 (internal error) keepalive ping timeout; no close frame received   --   {'label': 'other', 'news': {'id': '676cbb90c5f3b44ecc86709', 'date': '2025-04-26_00-02', 'title': '币安公布上币及下架标准', 'content': 'PANews 4月25日消息，据官方公告，币安详细说明了其上币和下架标准，包括Binance Alpha、币安合约和币安现货等产品的上币要求，以及项目团队需满足的条件。币安还强调了对市场表现、团队背景、合规性和产品安全性的持续监控，不符合标准的项目可能会被下架。', 'website': 'panewslab', 'src': 'https://www.panewslab.com/zh/sqarticledetails/2fod0s28.html'}, 'next': ''} [0m
+2025-04-26 00:33:27 - ERROR - [31m[maingraph]   Type is not msgpack serializable: MainGraphState [0m
+2025-04-26 00:34:29 - ERROR - keepalive ping failed
+TimeoutError: timed out while closing connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 777, in keepalive
+    with self.send_context():
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/cheng/miniconda3/envs/env_llm/lib/python3.11/site-packages/websockets/sync/connection.py", line 1012, in send_context
+    raise self.protocol.close_exc from original_exc
+websockets.exceptions.ConnectionClosedError: sent 1011 (internal error) keepalive ping timeout; no close frame received

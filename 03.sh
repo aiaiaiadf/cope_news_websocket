@@ -1,0 +1,1 @@
+clear && uvicorn 03_more_news:app --host 120.241.223.8 --port 8766 --reload

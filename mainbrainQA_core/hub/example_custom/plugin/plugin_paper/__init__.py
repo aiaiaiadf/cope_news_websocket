@@ -1,0 +1,4 @@
+from custom.plugin.plugin_paper.plugin_crawling_arxiv_paper import arxiv_once
+from custom.plugin.plugin_paper.plugin_crawling_bdxs_paper import bdxs_once
+from custom.plugin.plugin_paper.plugin_find_paper import findpaper_once
+from custom.plugin.plugin_paper.plugin_main import AnalysisQuery,routing

@@ -1,0 +1,1 @@
+sudo docker -itd --network=host --name=llm_server --restart -v /home/cheng/about_llm/05_crawl_code/02_cope_news_server_v0.2:/work/ python_llm:3.10-slim

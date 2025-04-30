@@ -1,0 +1,61 @@
+error='' 
+recall='' 
+tmp=MainGraphState(error='', recall='', 
+    tmp='<Recursion on MainGraphState with id=140246145712288>', 
+    isLoop=False, 
+    parameters={
+        'routing': 'flow_vector', 
+        'wbt_params': {'uri': 'ws://localhost', 'port': '8765', 'send_interval': '0.1', 'recondnect_delay': '5', 'ping_interval': '20', 'ping_timeout': '30'}, 
+        'wkeys_params': {'keys': 'ETF,NFT,GameFi,SocialFi,AI,DeFi,以太坊,ETH,比特币,Bitcoin'}, 
+        'kafka_params': {'kafka_ip': 'localhost', 'port': '29092', 'acks': 'all', 'broker': 'crawl', 'topic': 'panewslab', 'partition': '0', 'auto_offset_reset': 'earliest', 'enable_auto_commit': '-1', 'group_id': 'my-group', 'offset': '0', 'heap_num': '20'}, 
+        'mongodb_params': {'mongodb_ip': 'mongodb://admin:yulue123456@120.241.223.8:27017', 'table_name': 'news_2'}
+    }, 
+    messages=[], 
+    summarize='', 
+    latest_response='', 
+    user_input=[SystemMessage(content='\n# 角色 \n你是一个语句分类助手。\n\n## 技能\n1. 理解用户的输入信息，根据已有类型，选择出一个类别并返回。\n2. 只会返回类别，不返回思考和推理过程。\n\n## 任务类型说明\n1. 如果是运行示例模板，返回flow_example;\n2. 如果是处理新闻信息，返回flow_vector;\n99. 如果没有找不到相关任务类型，返回end。  \n', additional_kwargs={}, response_metadata={}), HumanMessage(content='处理新闻', additional_kwargs={}, response_metadata={})]) 
+    isLoop=False 
+    parameters={
+        'routing': 'flow_vector', 
+        'wbt_params': {'uri': 'ws://localhost', 'port': '8765', 'send_interval': '0.1', 'recondnect_delay': '5', 'ping_interval': '20', 'ping_timeout': '30'}, 
+        'wkeys_params': {'keys': 'ETF,NFT,GameFi,SocialFi,AI,DeFi,以太坊,ETH,比特币,Bitcoin'}, 
+        'kafka_params': {'kafka_ip': 'localhost', 'port': '29092', 'acks': 'all', 'broker': 'crawl', 'topic': 'panewslab', 'partition': '0', 'auto_offset_reset': 'earliest', 'enable_auto_commit': '-1', 'group_id': 'my-group', 'offset': '0', 'heap_num': '20'}, 
+        'mongodb_params': {'mongodb_ip': 'mongodb://admin:yulue123456@120.241.223.8:27017', 'table_name': 'news_2'}
+    } 
+    messages=[] 
+    summarize='' latest_response='' 
+    user_input=[SystemMessage(content='\n# 角色 \n你是一个语句分类助手。\n\n## 技能\n1. 理解用户的输入信息，根据已有类型，选择出一个类别并返回。\n2. 只会返回类别，不返回思考和推理过程。\n\n## 任务类型说明\n1. 如果是运行示例模板，返回flow_example;\n2. 如果是处理新闻信息，返回flow_vector;\n99. 如果没有找不到相关任务类型，返回end。  \n', additional_kwargs={}, response_metadata={}), HumanMessage(content='处理新闻', additional_kwargs={}, response_metadata={}
+    )
+]
+
+
+error='' 
+recall='' 
+tmpout=MainGraphState(error='', recall='', tmpout='<Recursion on MainGraphState with id=139842396771568>', isloop=False, 
+parameters={'routing': 'flow_vector', 
+    'wbt_params': {'uri': 'ws://localhost', 'port': '8765', 'send_interval': '0.1', 'recondnect_delay': '5', 'ping_interval': '20', 'ping_timeout': '30'}, 
+    'wkeys_params': {'keys': 'ETF,NFT,GameFi,SocialFi,AI,DeFi,以太坊,ETH,比特币,Bitcoin'}, 
+    'kafka_params': {'kafka_ip': 'localhost', 'port': '29092', 'acks': 'all', 'broker': 'crawl', 'topic': 'panewslab', 'partition': '0', 'auto_offset_reset': 'earliest', 'enable_auto_commit': '-1', 'group_id': 'my-group', 'offset': '0', 'heap_num': '20'}, 
+    'mongodb_params': {'mongodb_ip': 'mongodb://admin:yulue123456@120.241.223.8:27017', 'table_name': 'news_2'}
+}, 
+messages=[], 
+summarize='', 
+tmp_value=None, 
+latest_response='', 
+user_input=[SystemMessage(content='\n# 角色 \n你是一个语句分类助手。\n\n## 技能\n1. 理解用户的输入信息，根据已有类型，选择出一个类别并返回。\n2. 只会返回类别，不返回思考和推理过程。\n\n## 任务类型说明\n1. 如果是运行示例模板，返回flow_example;\n2. 如果是处理新闻信息，返回flow_vector;\n99. 如果没有找不到相关任务类型，返回end。  \n', additional_kwargs={}, response_metadata={}), HumanMessage(content='处理新闻', additional_kwargs={}, response_metadata={}
+)
+]
+) 
+isloop=False 
+parameters={'routing': 'flow_vector', 'wbt_params': {'uri': 'ws://localhost', 'port': '8765', 'send_interval': '0.1', 'recondnect_delay': '5', 'ping_interval': '20', 'ping_timeout': '30'}, 
+'wkeys_params': {'keys': 'ETF,NFT,GameFi,SocialFi,AI,DeFi,以太坊,ETH,比特币,Bitcoin'}, 
+'kafka_params': {'kafka_ip': 'localhost', 'port': '29092', 'acks': 'all', 'broker': 'crawl', 'topic': 'panewslab', 'partition': '0', 'auto_offset_reset': 'earliest', 'enable_auto_commit': '-1', 'group_id': 'my-group', 'offset': '0', 'heap_num': '20'}, 
+'mongodb_params': {'mongodb_ip': 'mongodb://admin:yulue123456@120.241.223.8:27017', 'table_name': 'news_2'}
+} 
+messages=[] 
+summarize='' 
+tmp_value=None 
+latest_response='' 
+user_input=[SystemMessage(content='\n# 角色 \n你是一个语句分类助手。\n\n## 技能\n1. 理解用户的输入信息，根据已有类型，选择出一个类别并返回。\n2. 只会返回类别，不返回思考和推理过程。\n\n## 任务类型说明\n1. 如果是运行示例模板，返回flow_example;\n2. 如果是处理新闻信息，返回flow_vector;\n99. 如果没有找不到相关任务类型，返回end。  \n', additional_kwargs={}, response_metadata={}), HumanMessage(content='处理新闻', additional_kwargs={}, response_metadata={}
+)
+]

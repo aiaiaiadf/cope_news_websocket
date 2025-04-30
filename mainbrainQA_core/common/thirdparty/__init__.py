@@ -1,0 +1,1 @@
+from common.thirdparty.getweather.getweather import get_weather

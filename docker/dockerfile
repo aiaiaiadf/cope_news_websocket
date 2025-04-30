@@ -1,0 +1,16 @@
+FROM python:3.10.17-slim
+LABEL author="chenglong <zhenglong@yulvetech.com>"
+SHELL [ "/bin/bash", "-c" ]
+ENV SHELL=/bin/bash
+
+COPY requirements.txt /work/
+
+RUN apt-get update \
+    && apt install curl vim gcc g++ cmake -y \
+    && pip install --upgrade pip \
+    && pip install -r /work/requirements.txt -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple 
+
+
+
+WORKDIR /work
+# CMD bash run.sh
